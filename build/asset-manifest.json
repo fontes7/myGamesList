@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/LO1/static/js/main.7ae8ea88.js",
-    "index.html": "/LO1/index.html",
-    "main.7ae8ea88.js.map": "/LO1/static/js/main.7ae8ea88.js.map"
+    "main.js": "/myGamesList/static/js/main.7ae8ea88.js",
+    "index.html": "/myGamesList/index.html",
+    "main.7ae8ea88.js.map": "/myGamesList/static/js/main.7ae8ea88.js.map"
   },
   "entrypoints": [
     "static/js/main.7ae8ea88.js"
