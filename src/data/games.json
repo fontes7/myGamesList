@@ -1,0 +1,100 @@
+{
+    "games": [
+        {
+            "name": "Subnautica",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1iqw.jpg"
+        },
+        {
+            "name": "Nier Automata",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pcj.jpg"
+        },
+        {
+            "name": "Red Dead Redemption 2",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg"
+        },
+        {
+            "name": "The Legend of Zelda: Breath of the Wild",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.jpg"
+        },
+        {
+            "name": "The Last Of Us",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.jpg"
+        },
+        {
+            "name": "Uncharted 4",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7h.jpg"
+        },
+        {
+            "name": "Sekiro: Shadows Die Twice",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a23.jpg"
+        },
+        {
+            "name": "Hades",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vc.jpg"
+        },
+        {
+            "name": "Persona 5 Royal",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nic.jpg"
+        },
+        {
+            "name": "Final Fantasy 7 Remake",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qxr.jpg"
+        },
+        {
+            "name": "Elden Ring",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg"
+        },
+        {
+            "name": "God Of War 2018",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5s5v.jpg"
+        },
+        {
+            "name": "Omori",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xlp.jpg"
+        },
+        {
+            "name": "The Witcher 3",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.jpg"
+        },
+        {
+            "name": "The Last of Us Part 2",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ziw.jpg"
+        },
+        {
+            "name": "SSX Tricky",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sup.jpg"
+        },
+        {
+            "name": "BloodBorne",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rba.jpg" 
+        },
+        {
+            "name": "Final Fantasy XIII",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ukg.jpg"
+        },
+        {
+            "name": "Final Fantasy XV",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tr2.jpg"
+        },
+        {
+            "name": "Celeste",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3byy.jpg"
+        },
+        {
+            "name": "Demons Souls",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kj9.jpg"
+        },
+        {
+            "name": "Ratchet & Clank 2",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1oyn.jpg"
+        },
+        {
+            "name": "Devil May Cry 5",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rb4.jpg"
+        },
+        {
+            "name": "Shrek Smash n' Crash Racing",
+            "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6h0b.jpg"
+        }
+    ]
+}
